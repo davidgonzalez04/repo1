@@ -1,0 +1,6 @@
+<img src="imatge.gif" alt="Smiley face" width="20" height="20">
+<img src="imatge.gif" alt="Smiley face" width="40" height="40">
+<img src="imatge.gif" alt="Smiley face" width="80" height="80">
+<img src="imatge.gif" alt="Smiley face" width="160" height="160">
+<audio src="audio.mp3" controls autoplay>
+</audio>
